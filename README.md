@@ -19,7 +19,7 @@ After building an employee database for Pewlett Hackard and using it to identify
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
 - Mentorship Program Eligible Employee Table:
-
+    https://github.com/djaiello/Module7Challenge/blob/main/Data/mentorship_eligibilty.csv
 
 ### Reference: SQL Queries
 
