@@ -34,7 +34,7 @@ The summary addresses the two questions and contains two additional queries or t
 - Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-2. 
-3. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
