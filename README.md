@@ -4,8 +4,25 @@
 After building an employee database for Pewlett Hackard and using it to identify those employees that are approaching retirement, we were given two new assignments. The first is to determine the number of retiring employees per title to give management an idea of what levels in the organizational hierarchy will be affected. while the second is to identify employees who are eligible to participate in a mentorship program. This report represents the results and analysis of that assignment.
 
 ## Results:
+### Deliverable 1: The Number of Retiring Employees by Title
 
-There is a bulleted list with four major points from the two analysis deliverables.  Use images as support where needed. (6 pt)
+- Retirement-Eligible Employee Historical Titles Table:
+
+
+- Retirement-Eligible Employee Most Recent Title Table:
+
+
+- Retirement-Eligible Title Count Table:
+
+
+### Deliverable 2: The Employees Eligible for the Mentorship Program
+
+- Mentorship Program Eligible Employee Table:
+
+
+### Reference: SQL Queries
+  - 
+
 
 ## Summary:
 
