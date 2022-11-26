@@ -3,6 +3,7 @@
 ## Overview of the analysis:
 After building an employee database for Pewlett Hackard and using it to identify those employees that are approaching retirement, we were given two new assignments. The first is to determine the number of retiring employees per title to give management an idea of what levels in the organizational hierarchy will be affected. while the second is to identify employees who are eligible to participate in a mentorship program. This report represents the results and analysis of that assignment.
 
+
 ## Results:
 ### Deliverable 1: The Number of Retiring Employees by Title
 
@@ -21,7 +22,8 @@ After building an employee database for Pewlett Hackard and using it to identify
 
 
 ### Reference: SQL Queries
-  - 
+
+  - https://github.com/djaiello/Module7Challenge/blob/main/Queries/Employee_Database_challenge.sql
 
 
 ## Summary:
