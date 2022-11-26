@@ -13,8 +13,10 @@ After building an employee database for Pewlett Hackard and using it to identify
 - Retirement-Eligible Employee Most Recent Title Table:
         https://github.com/djaiello/Module7Challenge/blob/main/Data/unique_titles.csv
 
-- Retirement-Eligible Title Count Table: 
+- Retirement-Eligible Title Count Table:
+
        https://github.com/djaiello/Module7Challenge/blob/main/Data/retiring_titles.csv
+
 
 ### Deliverable 2: The Employees Eligible for the Mentorship Program
 
