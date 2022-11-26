@@ -37,6 +37,6 @@ After building an employee database for Pewlett Hackard and using it to identify
 
    Looking at our Retirement-Eligible Title Count Table, we can see an abundance of employees at every level, with the exception of managers that could mentor the next generation of Pewlett Hackard.  Our results only identified 1550 employees that would be eligible for mentorship. So with almost 25K Senior engineers and senior staff getting ready to retire, we have plenty of employees to mentor the next generation.
 
-3. Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.    
+3. Provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami".   
 
-   In looking at the database structure, two additional tables
+   In looking at the database structure, one additional query would be a summary count of salaries of those nearing retirement.  Most senior staff are being paid from years of service along with their postion.  72K retirees, may leave money on the table for hiring additional staff.  An additional query might be to look at the employees by 10 year groupings of age.  This mass retiremnet of Baby Boomers leaved many companies looking at the age stratification of all employees to look a head to future generations and see whether large patterns exist beyond just this "silver tsunami".
